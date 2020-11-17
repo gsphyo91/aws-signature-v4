@@ -1,0 +1,22 @@
+{
+  "name": "aws-signature-v4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsphyo91/aws-signature-v4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsphyo91/aws-signature-v4/issues"
+  },
+  "homepage": "https://github.com/gsphyo91/aws-signature-v4#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
